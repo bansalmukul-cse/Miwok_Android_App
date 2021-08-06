@@ -1,5 +1,5 @@
 # Miwok_Android_App
-Miwok App
+
 This app displays lists of vocabulary words for the user to learn the Miwok language. 
 
 Miwok is an android app created to get familiarized with android basics such as views, layouts, intents, activities, MediaPlayer, constraint Layout, Adaptor, ListView, 
