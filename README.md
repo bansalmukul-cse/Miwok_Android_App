@@ -12,3 +12,8 @@ relevant child activity opens up.
 Child activities are displayed in a listview. Each element in the list has an image, Miwok word, English translation of the Miwok word and audio for the Miwok word.
 When the Number category is clicked in the home screen user is navigated to NumbersActivity. In the child activity, we used adaptors to implement view recycling.
 AudioFocus has been implemented in the app to avoid playing the app the audio in case of a phone call or other priority apps playing.
+
+SCREENSHOTS OF THE APP:-
+
+![WhatsApp Image 2021-08-30 at 3 01 06 PM](https://user-images.githubusercontent.com/77340095/131318770-a9c17af1-4bc2-4148-bb10-dcd9612ce75e.jpeg)
+
