@@ -13,4 +13,15 @@ Child activities are displayed in a listview. Each element in the list has an im
 When the Number category is clicked in the home screen user is navigated to NumbersActivity. In the child activity, we used adaptors to implement view recycling.
 AudioFocus has been implemented in the app to avoid playing the app the audio in case of a phone call or other priority apps playing.
 
+Screenshots
+-----------
+
+<img width="30%" src="screenshots/1.jpeg" />
+<img width="30%" src="screenshots/2.jpeg" />
+<img width="30%" src="screenshots/3.jpeg" />
+<img width="30%" src="screenshots/4.jpeg" />
+<img width="30%" src="screenshots/5.jpeg" />
+
+
+
 
