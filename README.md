@@ -16,11 +16,9 @@ AudioFocus has been implemented in the app to avoid playing the app the audio in
 Screenshots
 -----------
 
-<img width="30%" src="screenshots/1.jpeg" />
-<img width="30%" src="screenshots/2.jpeg" />
-<img width="30%" src="screenshots/3.jpeg" />
-<img width="30%" src="screenshots/4.jpeg" />
-<img width="30%" src="screenshots/5.jpeg" />
+<img width="30%" src="screenshots/1.jpeg" />      <img width="30%" src="screenshots/5.jpeg" />        <img width="30%" src="screenshots/4.jpeg" />
+&nbsp;  &nbsp;
+<img width="30%" src="screenshots/2.jpeg" />     <img width="30%" src="screenshots/3.jpeg" />
 
 
 
